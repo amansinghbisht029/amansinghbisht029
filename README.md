@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring full-stack developer and competitive programmer from India.</h3>
 
 # 💫 About Me:
-🔭 I’m currently studying at NIT SRINAGAR<br>👯 I’m looking to collaborate on Real World Projects<br>🤝 I’m looking for SDE Role/Full Stack Development Role/Machine Learning Role/DevOps Role<br>🌱 I’m currently learning Data Structures & Algorithms, Core CS Fundamentals, MERN Stack and Machine Learning<br>💬 Ask me about: Technologies, Mathematics and Physics<br>⚡ Fun fact: I love to Read<br> 📫 How to reach me: <a href="mailto:amansbpcme@gmail.com">amansbcpme@gmail.com</a>
+🔭 I completed my B.TECH from NIT SRINAGAR<br>👯 I’m looking to collaborate on Real World Projects<br>🤝 I’m looking for SDE Role/Full Stack Development Role/Machine Learning Role/DevOps Role<br>🌱 I’m keep exploring Data Structures & Algorithms, Core CS Fundamentals, MERN Stack and Machine Learning<br>💬 Ask me about: Technologies, Mathematics and Physics<br>⚡ Fun fact: I love to Read<br> 📫 How to reach me: <a href="mailto:amansbpcme@gmail.com">amansbcpme@gmail.com</a>
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
